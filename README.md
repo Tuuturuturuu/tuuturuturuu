@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there I'm updating my profile's description 
+##(it's a work in progress)
 
 <!--
 **Tuuturuturuu/tuuturuturuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
